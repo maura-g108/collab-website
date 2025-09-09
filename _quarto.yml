@@ -15,8 +15,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - quartz
     css: styles.css
     toc: true
 
