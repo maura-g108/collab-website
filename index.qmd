@@ -1,5 +1,5 @@
 ---
-title: "collab-website"
+title: "Index name"
 ---
 
 This is a Quarto website.
