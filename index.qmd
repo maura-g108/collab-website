@@ -2,6 +2,6 @@
 title: "Index name"
 ---
 
-This is a Quarto website.
+This is our website. Showing puppies
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](https://i.ytimg.com/vi/DeFVn6-ZE40/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCk4R3N_D7ZgeGi_etjkw5senMtMA)
